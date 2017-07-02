@@ -1,4 +1,7 @@
 import { Component } from '@angular/core';
+import {DropdownModule} from "ngx-dropdown";
+import { Router } from '@angular/Router';
+
 
 @Component({
   selector: 'app-root',

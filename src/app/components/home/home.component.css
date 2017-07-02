@@ -1,0 +1,30 @@
+.jumbotron {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    border-bottom: 1px solid #e5e5e5;
+    border-bottom: 0;
+}
+
+.jumbotron .btn {
+  padding: 14px 24px;
+  font-size: 21px;
+}
+
+.footer {
+    padding-right: 15px;
+  padding-left: 15px;
+  padding-top: 19px;
+  color: #777;
+  border-top: 1px solid #e5e5e5;
+}
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 730px;
+    padding-top: 60px;
+  }
+}
+.container-narrow > hr {
+  margin: 30px 0;
+}

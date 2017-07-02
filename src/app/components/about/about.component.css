@@ -1,0 +1,23 @@
+.site-wrapper-inner {
+  display: table-cell;
+  vertical-align: top;
+}
+
+.cover-container {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.site-wrapper-inner {
+    vertical-align: middle;
+  }
+
+  .cover-container {
+  margin-right: auto;
+  margin-left: auto;
+}
+.inner .cover {
+  padding: 20px 0 20px 0;
+
+}
+
